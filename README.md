@@ -20,7 +20,7 @@ Professional cybersecurity portfolio for Aleksandr Hovsepyan, final year BSc Com
 
 ### Education
 - BSc in Computing (Cybersecurity), TU Dublin
-- 180 / 240 Credits Completed — Cumulative GPA 3.40
+- 240 / 240 Credits Completed
 - Years 1–4 module breakdown with grades
 
 ## File Structure

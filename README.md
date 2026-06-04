@@ -5,21 +5,21 @@ Professional cybersecurity portfolio for Aleksandr Hovsepyan, final year BSc Com
 
 ## Contents
 ### Completed Projects
-- Phishing URL Detection Chrome Extension (FYP — XGBoost, F1=0.918)
-- Digital Forensic Investigation CA3 (Windows XP extortion case)
-- BCM & DR — AWS Pilot Light Strategy (GlobalHealth Connect)
+- Phishing URL Detection Chrome Extension
+- Digital Forensic Investigation CA3
+- BCM & DR — AWS Pilot Light Strategy
 - iOS Mobile Device Forensics (iLEAPP iTunes backup analysis)
 - Professional Penetration Testing
 - Static Code Analysis & Security Remediation
 - Open-Source Firewall Analysis (Nftables vs FreeBSD PF)
 - Steganography & Steganalysis Research
-- Digital Forensic Investigation (drug distribution case)
-- Vulnerable Website Security Analysis (Flask/OWASP)
+- Digital Forensic Investigation
+- Vulnerable Website Security Analysis
 - OSINT Discord Bot Development
 - ZeroDays CTF 2026 — 33rd / 147 teams
 
 ### Education
-- BSc in Computing (Cybersecurity), TU Dublin
+- BSc in Computing (Digital Forensics & Cybersecurity), TU Dublin
 - 240 / 240 Credits Completed
 - Years 1–4 module breakdown with grades
 
